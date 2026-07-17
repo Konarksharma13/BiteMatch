@@ -125,39 +125,19 @@ The project also allowed me to combine UI design, animation, and recommendation 
 
 ---
 
-## 🛠️ Engineering Stack
+## 🛠 Built With
 
-## Frontend
-
-- React (Vite)
-- JavaScript
-- Tailwind CSS
-
-## Animations
-
-- Framer Motion
-
-## Swipe Experience
-
-- react-tinder-card
-
-## UI
-
-- React Icons
-- react-hot-toast
-
-## Deployment
-
-- Vercel
+**React (Vite)** • **Tailwind CSS** • **Framer Motion** • **react-tinder-card** • **React Icons** • **react-hot-toast**
 
 ---
 
-## 📂 Project Structure
+## ⚡ Technical Highlights
 
-```text
-├── public/
-├── src/
-```
+- Mobile-first interface optimized for swipe interactions.
+- Client-side recommendation engine powered entirely by React state.
+- Responsive layout that transitions from a vertical mobile flow to a split-screen desktop experience.
+- Modular component architecture for reusable food cards, recommendation logic, and match screens.
+- Smooth, gesture-driven animations designed to create an engaging user experience.
 
 ---
 
@@ -186,16 +166,6 @@ Visit:
 ```text
 http://localhost:5173
 ```
-
----
-
-## ⚡ Technical Highlights
-
-- Mobile-first interface optimized for swipe interactions.
-- Client-side recommendation engine powered entirely by React state.
-- Responsive layout that transitions from a vertical mobile flow to a split-screen desktop experience.
-- Modular component architecture for reusable food cards, recommendation logic, and match screens.
-- Smooth, gesture-driven animations designed to create an engaging user experience.
 
 ---
 
