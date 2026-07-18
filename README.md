@@ -10,6 +10,9 @@ Finding food at a stadium, concert, or festival shouldn't feel like searching fo
 🔗 **Live Demo:** https://bite-match-wine.vercel.app/
 
 
+https://github.com/user-attachments/assets/87ce4608-6f68-4886-ab75-923bd92a9221
+
+
 ---
 
 ## ✨ Philosophy
